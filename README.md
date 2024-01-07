@@ -6,9 +6,16 @@ This project is a manifestation of my passion for C++, where I've leveraged my u
 
 ## Project List:
 ```python
-+ <Project 1>: Hangman Game
-+ <Project 2>: Login System
-+ <Project 3>: Tic Tac Toe
++ <Project 1>: CGPA Calculator
++ <Project 2>: Crptograph Application
++ <Project 3>: Hangman Game
++ <Project 4>: Inventory System
++ <Project 5>: Login System
++ <Project 6>: Minesweeper
++ <Project 7>: Tic Tac Toe
++ <Project 8>: 
++ <Project 9>: 
++ <Project 10>: 
 ```
 
 ## Motivation

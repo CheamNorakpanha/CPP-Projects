@@ -1,0 +1,5 @@
+Baby-Dinosaur_RescueCenter, 1, 39.990000
+Visitor_Center:T-rex_&_Raptor_Attack, 1, 129.990000
+Brachiosaurus-Discovery, 1, 79.990000
+T-rex_Dinosaur_Breakout, 1, 49.990000
+Dinosaur_Fossils:T-rex_Skull, 1, 39.990000
