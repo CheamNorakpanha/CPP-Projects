@@ -23,7 +23,7 @@ As a dedicated C++ enthusiast, I wanted to implement a project that not only sho
 
 ## How to Use
 ```bash
-https://github.com/CheamNorakpanha/CPP-Project.git
+git clone https://github.com/CheamNorakpanha/CPP-Project.git
 ```
 
 Thank you for checking out our project! Happy coding!
