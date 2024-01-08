@@ -6,16 +6,16 @@ This project is a manifestation of my passion for C++, where I've leveraged my u
 
 ## Project List:
 ```python
-+ <Project 1>: CGPA Calculator
-+ <Project 2>: Crptograph Application
-+ <Project 3>: Hangman Game
-+ <Project 4>: Inventory System
-+ <Project 5>: Login System
-+ <Project 6>: Minesweeper
-+ <Project 7>: Tic Tac Toe
-+ <Project 8>: 
-+ <Project 9>: 
-+ <Project 10>: 
++ <Project 1>: Bookshop Management System
++ <Project 2>: Car Rental System
++ <Project 3>: CGPA Calculator
++ <Project 4>: Cryptography Application
++ <Project 5>: Hangman Game
++ <Project 6>: Inventory System
++ <Project 7>: Login System
++ <Project 8>: Minesweeper
++ <Project 9>: Sodoku Solver 9x9
++ <Project 10>: Tic Tac Toe
 ```
 
 ## Motivation
@@ -23,7 +23,7 @@ As a dedicated C++ enthusiast, I wanted to implement a project that not only sho
 
 ## How to Use
 ```bash
-https://github.com/CheamNorakpanha/CPP-Project.git
+git clone https://github.com/CheamNorakpanha/CPP-Project.git
 ```
 
 Thank you for checking out our project! Happy coding!
